@@ -1,0 +1,12 @@
+flask
+flask-cors
+solana
+base58
+werkzeug
+python-dotenv
+requests
+pyjwt
+ipfshttpclient
+google-generativeai
+python-socketio
+eventlet

@@ -1,0 +1,168 @@
+{
+  "did:nexa:6306063d-da31-47a3-9897-bdd33d36fd39": {
+    "theme": "light",
+    "font_size": "medium",
+    "notifications": {
+      "push_notifications": true,
+      "new_followers": true,
+      "mentions": true,
+      "likes": true,
+      "comments": true,
+      "shares": true
+    },
+    "privacy": {
+      "enhanced_privacy": false,
+      "show_online_status": true,
+      "allow_direct_messages": true,
+      "show_following_list": true
+    },
+    "security": {
+      "two_factor_enabled": false,
+      "login_notifications": true,
+      "session_timeout": 24
+    },
+    "content": {
+      "auto_play_videos": true,
+      "show_sensitive_content": false,
+      "language": "en"
+    }
+  },
+  "did:nexa:242d7748-e9f7-46c4-8fb2-a0dcce35d75b": {
+    "theme": "dark",
+    "font_size": "medium",
+    "notifications": {
+      "push_notifications": true,
+      "new_followers": true,
+      "mentions": true,
+      "likes": true,
+      "comments": true,
+      "shares": true
+    },
+    "privacy": {
+      "enhanced_privacy": false,
+      "show_online_status": true,
+      "allow_direct_messages": true,
+      "show_following_list": true
+    },
+    "security": {
+      "two_factor_enabled": false,
+      "login_notifications": true,
+      "session_timeout": 24
+    },
+    "content": {
+      "auto_play_videos": true,
+      "show_sensitive_content": false,
+      "language": "en"
+    }
+  },
+  "did:nexa:6714a1ba-73bd-44c6-9bf4-da03891151fc": {
+    "theme": "dark",
+    "font_size": "medium",
+    "notifications": {
+      "push_notifications": true,
+      "new_followers": true,
+      "mentions": true,
+      "likes": true,
+      "comments": true,
+      "shares": true
+    },
+    "privacy": {
+      "enhanced_privacy": false,
+      "show_online_status": true,
+      "allow_direct_messages": true,
+      "show_following_list": true
+    },
+    "security": {
+      "two_factor_enabled": false,
+      "login_notifications": true,
+      "session_timeout": 24
+    },
+    "content": {
+      "auto_play_videos": true,
+      "show_sensitive_content": false,
+      "language": "en"
+    }
+  },
+  "did:nexa:aaa98891-ef83-4622-9f12-4036fd3de1d3": {
+    "theme": "dark",
+    "font_size": "medium",
+    "notifications": {
+      "push_notifications": true,
+      "new_followers": true,
+      "mentions": true,
+      "likes": true,
+      "comments": true,
+      "shares": true
+    },
+    "privacy": {
+      "enhanced_privacy": false,
+      "show_online_status": true,
+      "allow_direct_messages": true,
+      "show_following_list": true
+    },
+    "security": {
+      "two_factor_enabled": false,
+      "login_notifications": true,
+      "session_timeout": 24
+    },
+    "content": {
+      "auto_play_videos": true,
+      "show_sensitive_content": false,
+      "language": "en"
+    }
+  },
+  "did:nexa:cc133112-32cf-4b8c-b0ee-b2e53fe83efd": {
+    "theme": "dark",
+    "font_size": "medium",
+    "notifications": {
+      "push_notifications": true,
+      "new_followers": true,
+      "mentions": true,
+      "likes": true,
+      "comments": true,
+      "shares": true
+    },
+    "privacy": {
+      "profile_visibility": "public",
+      "show_online_status": true,
+      "allow_messages": true
+    },
+    "language": "en"
+  },
+  "did:nexa:de54b81f-6841-4bde-9ee6-580e99d31a7c": {
+    "theme": "dark",
+    "font_size": "medium",
+    "notifications": {
+      "push_notifications": true,
+      "new_followers": true,
+      "mentions": true,
+      "likes": true,
+      "comments": true,
+      "shares": true
+    },
+    "privacy": {
+      "profile_visibility": "public",
+      "show_online_status": true,
+      "allow_messages": true
+    },
+    "language": "en"
+  },
+  "did:nexa:597ec296-b839-40e6-95e6-55c323bdc271": {
+    "theme": "dark",
+    "font_size": "medium",
+    "notifications": {
+      "push_notifications": true,
+      "new_followers": true,
+      "mentions": true,
+      "likes": true,
+      "comments": true,
+      "shares": true
+    },
+    "privacy": {
+      "profile_visibility": "public",
+      "show_online_status": true,
+      "allow_messages": true
+    },
+    "language": "en"
+  }
+}
